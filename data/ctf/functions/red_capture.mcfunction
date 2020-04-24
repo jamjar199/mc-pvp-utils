@@ -1,0 +1,1 @@
+scoreboard players add Red score 1
